@@ -1,0 +1,31 @@
+#quotepiper {
+	min-height: 140px;
+	background: #fff url(images/qp-background.jpg) 50% 0 no-repeat;
+	position: relative;
+	padding: 5px 0;
+}
+
+#quotepiper p {
+	color: #4D4D4D;
+	font: 16px/20px Georgia, serif;
+	padding: 0 20px 0 20px;
+}
+
+a#qp-logo2:link, a#qp-logo2:visited {
+	display: block;
+	width: 140px;
+	height: 82px;
+	background: url(images/qp-logo2.png) 0 0 no-repeat;
+	text-indent: -9999px;
+	margin: 30px auto 0 auto;
+}
+
+a#qp-get:link, a#qp-get:visited {
+	display: block;
+	width: 11px;
+	height: 11px;
+	float: right;
+	background: url(images/qp-plus.png) 0 0 no-repeat;
+	text-indent: -9999px;
+	margin: 0 20px 0 0;
+}
